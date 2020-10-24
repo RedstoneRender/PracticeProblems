@@ -3,25 +3,26 @@ Write a program that will print out the numbers 0 through 99. When the program p
 
 You may not print out fizz or buzz more than once per number-I.e:
 
-valid outputs:
-* ```
+##### valid outputs:
+```
 15
 fizzbuzz
 ```
-* ```
+
+```
 10
 buzz
 ```
 
-invalid outputs:
-* ```
+##### invalid outputs:
+```
 15
 fizz
 buzz
 fizzbuzz
 ```
 
-* ```
+```
 10
 fizzbuzz
 ```
