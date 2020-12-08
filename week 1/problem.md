@@ -1,4 +1,4 @@
-# Week 1:
+# Number 1:
 Write a program that will print out the numbers 0 through 99. When the program prints a number that is a multiple of 3, print out fizz in addition to the number. When the program prints a number that is a multiple of 5, print out buzz in addition to the number. when the program prints a number that is a multiple of 3 and 5, print out fizzbuzz in addition to the number.
 
 You may not print out fizz or buzz more than once per number-I.e:
