@@ -1,4 +1,4 @@
-# Week 2:
+# Number 2:
 Your program will have a string variable defined at the very beginning of the program. The contents of this variable will text that can include spaces and uppercase characters as well as punctuation. Your program must count the amount of times that any character appears in this text and calculate the percentage of the text which includes this character.
 for every unique character in the text, you must print the times it occurs and its frequency and what character it is.
 
